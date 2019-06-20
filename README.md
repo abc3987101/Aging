@@ -6,11 +6,5 @@ This document provides the source code for the paper. The raw data is available 
 
 To run main.py, one should first run preprocessing.py which will do data preprocessing for the raw data. 
 
-Environment:
-
-Python 3.6
-
-Keras 2.2.4
-
-TensorFlow 1.13.1
+Environment:<br />Python 3.6<br />Keras 2.2.4<br />TensorFlow 1.13.1
 
